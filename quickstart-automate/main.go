@@ -12,12 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package main
 
-import (
-"fmt"
-)
+ package main
 
-func main () {
-  fmt.Println("Hello, world!")
-}
+  import (
+      "fmt"
+  )
+
+  func main() {
+      fmt.Println("Hello, universe!")
+  }
